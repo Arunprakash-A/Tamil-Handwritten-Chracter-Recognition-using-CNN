@@ -1,2 +1,2 @@
-# ml-tamilHcr
-Tamil Handwritten character recognition using convolutional neural networks.
+# CNN-Tamil-HCR
+Offline Isolated Tamil Handwritten character recognition using convolutional neural networks.
