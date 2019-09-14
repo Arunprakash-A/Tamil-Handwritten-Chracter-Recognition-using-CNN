@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Hello World</h1>
+<p>More detailed explanation on the project will be 
+updated soon!</p>
+</body>
+</html>
