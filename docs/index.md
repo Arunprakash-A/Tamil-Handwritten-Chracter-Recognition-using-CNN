@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Tamil Handwritten Character Recogniton Model
+Tamil Handwritten character recognition using convolutional neural networks.
+## Dataset: IWFHR-10 
+![Data Distribution](https://github.com/Arunprakash-A/Tamil-Handwritten-Chracter-Recognition-using-CNN/blob/master/Output/trainDistribution.png?raw=True)
+* We can observe that there is a slight class imbalance (i.e., some classes have more training samples over other classes) problem
+## Model Architecture:
+* Figure
+![Model](https://github.com/Arunprakash-A/Tamil-Handwritten-Chracter-Recognition-using-CNN/blob/master/Model/Architecture.JPG?raw=true)
+## Ouputs
+The Performance Measure of the model for training and valiadation split. <b> Cross entropy </b> loss was used.
+![Performance Measure](https://github.com/Arunprakash-A/Tamil-Handwritten-Chracter-Recognition-using-CNN/blob/master/Output/download.png?raw=true)
+## Confusion Matrix:
+![Performance Measure](https://github.com/Arunprakash-A/Tamil-Handwritten-Chracter-Recognition-using-CNN/blob/master/Output/ConfusionMatrix.png?raw=true )
 
-You can use the [editor on GitHub](https://github.com/Arunprakash-A/Tamil-Handwritten-Chracter-Recognition-using-CNN/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## Download the model
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Download](https://drive.google.com/drive/folders/1CV3f37rgDHCnKLuJU0-3QUFVRHgYUxLB?usp=sharing)
 
-### Markdown
+## Download the Notebook 
+[Notebook](https://github.com/Arunprakash-A/Tamil-Handwritten-Chracter-Recognition-using-CNN/blob/master/CodeNotebooks/tocr_train.ipynb)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Arunprakash-A/Tamil-Handwritten-Chracter-Recognition-using-CNN/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
